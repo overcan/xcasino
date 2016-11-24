@@ -1,3 +1,3 @@
 # xcasino
 Repository for xcasino client
-test
+Client svn rev 235
